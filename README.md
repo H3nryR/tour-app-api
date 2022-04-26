@@ -1,6 +1,6 @@
 # tour-app
 It's a project in progress. 
-I'm practicing here mostly concepts of backend lie (API's, Routing, Authentications, DB, etc)
+I'm practicing here mostly concepts of backend, like (API's, Routing, Authentications, DB, etc)
 
 ## Done so far:
 - API (work in progress)
